@@ -1,4 +1,6 @@
-### Hi there 👋
+### Nate Wiker (@mathofprimes)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathofprimes&show_icons=true&theme=merko)
 
 <!--
 **mathofprimes/mathofprimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills:
+
+### Tools:
+
+### Interests:
