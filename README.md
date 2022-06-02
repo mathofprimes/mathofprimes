@@ -1,4 +1,4 @@
-### Hi, I'm Nate :v:
+# Hi, I'm Nate :v:
 
 <div align="center">
   <a href="https://github.com/mathofprimes">
@@ -6,9 +6,9 @@
   <img height="150em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathofprimes&theme=solarized-dark&custom_title=Languages:&layout=compact&hide_border=true"/>
 </div>
 
-### Contact or find me :telephone:
+# Contact or find me :telephone:
 
-### What I use :computer:
+# What I use :computer:
 
 <div align="left">
   <img height="50em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg"/>
@@ -19,9 +19,9 @@
           
 </div>          
 
-### My interests :books:
+# My interests :books:
 
-### Notable projects :hammer_and_wrench:
+# Notable projects :hammer_and_wrench:
 
 <a href="https://github.com/mathofprimes/wildgrass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=wildgrass&theme=solarized-dark&hide_border=true" />
