@@ -1,24 +1,19 @@
-### Nate Wiker (@mathofprimes)
+### Hi, I'm Nate :v:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathofprimes&show_icons=true&theme=merko)
+<div align="center">
+  <a href="https://github.com/mathofprimes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathofprimes&show_icons=true&theme=solarized-dark&custom_title=Stats:"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathofprimes&theme=solarized-dark&custom_title=Languages:&layout=compact"/>
+</div>
 
-<!--
-**mathofprimes/mathofprimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact or find me :telephone:
 
-Here are some ideas to get you started:
+### Tools I use :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My interests :books:
 
-### Skills:
+### Notable projects :hammer_and_wrench:
 
-### Tools:
-
-### Interests:
+<a href="https://github.com/mathofprimes/wildgrass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=wildgrass&theme=solarized-dark" />
+</a>
