@@ -29,6 +29,7 @@
 ---
   
 <div align="left">
+  <img src="https://img.shields.io/badge/Emacs-002B36?style=for-the-badge&logo=gnuemacs&logoColor=B58900" />
   <img src="https://img.shields.io/badge/GIT-002B36?style=for-the-badge&logo=git&logoColor=B58900" />
   <img src="https://img.shields.io/badge/GITHUB-002B36?style=for-the-badge&logo=html5&logoColor=B58900" />
   <img src="https://img.shields.io/badge/HTML5-002B36?style=for-the-badge&logo=html5&logoColor=B58900" />
