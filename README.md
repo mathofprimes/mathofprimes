@@ -29,10 +29,17 @@
 ---
   
 <div align="left">
-  <img src="https://img.shields.io/badge/Emacs-002B36?style=for-the-badge&logo=gnuemacs&logoColor=B58900" />
-  <img src="https://img.shields.io/badge/GIT-002B36?style=for-the-badge&logo=git&logoColor=B58900" />
-  <img src="https://img.shields.io/badge/GITHUB-002B36?style=for-the-badge&logo=html5&logoColor=B58900" />
+  <a href="https://www.gnu.org/software/emacs/">
+    <img src="https://img.shields.io/badge/Emacs-002B36?style=for-the-badge&logo=gnuemacs&logoColor=B58900" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/GIT-002B36?style=for-the-badge&logo=git&logoColor=B58900" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/GITHUB-002B36?style=for-the-badge&logo=html5&logoColor=B58900" />
+  </a>  
   <img src="https://img.shields.io/badge/HTML5-002B36?style=for-the-badge&logo=html5&logoColor=B58900" />
+  <img src="https://img.shields.io/badge/LaTeX-002B36?style=for-the-badge&logo=latex&logoColor=B58900" />
   <img src="https://img.shields.io/badge/OPENSUSE-002B36?style=for-the-badge&logo=opensuse&logoColor=B58900" />
   <img src="https://img.shields.io/badge/PYTHON-002B36?style=for-the-badge&logo=python&logoColor=B58900" />
   <img src="https://img.shields.io/badge/VIM-002B36?style=for-the-badge&logo=vim&logoColor=B58900" />
