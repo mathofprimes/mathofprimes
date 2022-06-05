@@ -23,8 +23,6 @@
   
 ### What I use :computer:
 
----  
-
 ---
   
 <div align="left">
@@ -62,6 +60,10 @@
 ### My interests :books:
 
 ---
+
+```
+def interests()
+```
 
 ### Notable projects :hammer_and_wrench:
 
