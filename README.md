@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/GIT-002B36?style=for-the-badge&logo=git&logoColor=B58900" />
   </a>
   <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GITHUB-002B36?style=for-the-badge&logo=html5&logoColor=B58900" />
+    <img src="https://img.shields.io/badge/GITHUB-002B36?style=for-the-badge&logo=github&logoColor=B58900" />
   </a>
   <a href="https://html.com">
     <img src="https://img.shields.io/badge/HTML5-002B36?style=for-the-badge&logo=html5&logoColor=B58900" />
@@ -62,7 +62,10 @@
 ---
 
 ```
-def interests()
+class MyInterests:
+  def __init__(self, mathematics, programming)
+    self.mathematics =
+    self.programming =
 ```
 
 ### Notable projects :hammer_and_wrench:
