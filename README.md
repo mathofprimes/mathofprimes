@@ -45,8 +45,8 @@
 ```
 class MyInterests:
   def __init__(self, mathematics, programming)
-    self.mathematics =
-    self.programming =
+    self.mathematics = ["number theory", "prime numbers"]
+    self.programming = ["data science", "web development"]
 ```
 
 ### Notable projects :hammer_and_wrench:
