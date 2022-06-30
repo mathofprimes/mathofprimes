@@ -42,12 +42,13 @@
 
 ### What interests me :books:
 
-```
-class MyInterests:
-  def __init__(self, mathematics, programming)
-    self.mathematics = ["number theory", "prime numbers"]
-    self.programming = ["data science", "web development"]
-```
+* Computer Science
+  - Data science
+  - Web development
+  
+* Mathematics 
+  - Number theory 
+  - Prime numbers
 
 ### Notable projects :hammer_and_wrench:
 
