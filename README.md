@@ -2,10 +2,10 @@
 
 <p align="left">
   <a href="https://github.com/mathofprimes">
-    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mathofprimes&show_icons=true&theme=solarized-dark&custom_title=Stats:&hide_border=true&border_radius=0"/>
+    <img width="49%" height="197em" src="https://github-readme-stats.vercel.app/api?username=mathofprimes&show_icons=true&theme=solarized-dark&custom_title=Stats:&hide_border=true&border_radius=0"/>
   </a>
   <a href="https://github.com/mathofprimes">
-    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathofprimes&theme=solarized-dark&custom_title=Languages:&hide_border=true&border_radius&layout=compact"
+    <img width="49%" height="197em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathofprimes&theme=solarized-dark&custom_title=Languages:&hide_border=true&border_radius&layout=compact"
   </a>
 </p>
 
@@ -57,9 +57,9 @@
 
 <p align="left">
   <a href="https://github.com/mathofprimes/wildgrass">
-    <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=wildgrass&theme=solarized-dark&hide_border=true&border_radius=0" />
+    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=wildgrass&theme=solarized-dark&hide_border=true&border_radius=0" />
   </a>
   <a href="https://github.com/mathofprimes/wildgrass">
-    <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=dotfiles&theme=solarized-dark&hide_border=true&border_radius=true" />
+    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=dotfiles&theme=solarized-dark&hide_border=true&border_radius=true" />
   </a>
 </p>
