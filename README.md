@@ -1,8 +1,11 @@
 ### Hi, I'm Nate :v:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mathofprimes">
-    <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mathofprimes&show_icons=true&theme=solarized-dark&custom_title=Stats:&hide_border=true"/>
+    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mathofprimes&show_icons=true&theme=solarized-dark&custom_title=Stats:&hide_border=true&border_radius=0"/>
+  </a>
+  <a href="https://github.com/mathofprimes">
+    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathofprimes&theme=solarized-dark&custom_title=Languages:&hide_border=true&border_radius&layout=compact"
   </a>
 </p>
 
@@ -10,7 +13,7 @@
 
 ### What I use :desktop_computer:
   
-<p align="center">
+<p align="left">
   <a href="https://www.gnu.org/software/emacs">
     <img src="https://img.shields.io/badge/Emacs-002B36?style=for-the-badge&logo=gnuemacs&logoColor=B58900" />
   </a>
@@ -52,11 +55,11 @@
 
 ### Notable projects :hammer_and_wrench:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mathofprimes/wildgrass">
-    <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=wildgrass&theme=solarized-dark&hide_border=true" />
+    <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=wildgrass&theme=solarized-dark&hide_border=true&border_radius=0" />
   </a>
   <a href="https://github.com/mathofprimes/wildgrass">
-    <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=dotfiles&theme=solarized-dark&hide_border=true" />
+    <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mathofprimes&repo=dotfiles&theme=solarized-dark&hide_border=true&border_radius=true" />
   </a>
 </p>
