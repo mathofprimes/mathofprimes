@@ -52,16 +52,6 @@
   </a>
 </p>
 
-### What interests me :books:
-
-* Computer Science
-  - Data science
-  - Web development
-  
-* Mathematics 
-  - Number theory 
-  - Prime numbers
-
 ### Notable projects :hammer_and_wrench:
 
 <p align="center">
