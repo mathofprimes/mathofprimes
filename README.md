@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/mathofprimes">
-    <img width="98%" height="auto" src="https://activity-graph.herokuapp.com/graph/?username=mathofprimes&bg_color=002B36&color=B58900&line=268BD2&point=859900&hide_border=true&hide_title=true" />
+    <img src="https://activity-graph.herokuapp.com/graph/?username=mathofprimes&bg_color=002B36&color=B58900&line=268BD2&point=859900&hide_border=true&hide_title=true" />
   </a>
   <a href="https://github.com/mathofprimes">
     <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mathofprimes&hide_border=true&theme=solarized-dark&border_radius=0&hide_title=true&show_icons=true"/>
