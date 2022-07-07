@@ -3,11 +3,7 @@
 <p align="left">
   <a href="https://github.com/mathofprimes">
     <img width="98%" src="https://activity-graph.herokuapp.com/graph/?username=mathofprimes&hide_border=true&bg_color=002B36&point=B58900&line=268BD2&color=859900&hide_title=true" />
-  </a>
-  <a href="https://github.com/mathofprimes">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathofprimes&hide_border=true&theme=solarized-dark&border_radius=0&hide_title=true&show_icons=true"/>
-  </a>
-  <a href="https://github.com/mathofprimes">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathofprimes&hide_border=true&theme=solarized-dark&border_radius=0&hide_title=true&layout=compact"
   </a>
 </p>
