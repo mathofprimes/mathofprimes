@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/mathofprimes/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=mathofprimes&color=grey&style=for-the-badge)
