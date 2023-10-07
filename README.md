@@ -1,9 +1,6 @@
 ### Hi, I'm Nate 👋
 
-<picture>
-  <source media="(prefers-color-scheme:dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=mathofprimes&hide_border=true&theme=github-dark" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mathofprimes&hide_border=true&theme=github-light" />
-</picture>
+### Statistics
 
 <p align="center">
   <picture>
@@ -16,6 +13,12 @@
   </picture>
 </p>
 
+### Knowledge
+
+### Tools
+
+### Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mathofprimes&color=grey&style=for-the-badge" />
-</p> 
+</p>
